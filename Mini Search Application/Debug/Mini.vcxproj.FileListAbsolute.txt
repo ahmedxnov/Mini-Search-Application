@@ -1,0 +1,2 @@
+C:\Users\l\source\repos\Mini\Debug\MiniSearchApplication.exe
+C:\Users\l\source\repos\Mini\Debug\MiniSearchApplication.pdb
