@@ -1,0 +1,2 @@
+# MiniSearchApplication
+ # This project aims to search on some keywords in a group of documents and return the name of the document that contains this word. # This project also has options to delete and modify the selected word.                                                               # This project also has options to Search for a given keyword and return the set of documents containing the keyword.
